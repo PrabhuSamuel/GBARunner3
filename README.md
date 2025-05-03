@@ -206,7 +206,7 @@ A: Likely needs manual JIT patches or self-modifying code patches.
 A: Yes, if you're familiar with no$GBA debugger or ARM7 debugging tools, seek for help in the Discord Server.
 
 **Q: Can I still use GBARunner2?**  
-A: Yes, both GBARunner2 and GBAREunner3 can coexist.
+A: Yes, both GBARunner2 and GBARunner3 can coexist.
 
 **Q: Do I need to uninstall GBARunner2 after installing 3?**  
 A: No.
